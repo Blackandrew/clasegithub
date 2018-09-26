@@ -1,0 +1,7 @@
+# Descripción
+¿Que ha cambiado?
+ - [] Fontend
+- []Backend
+- []configuracion del servidor
+ # Cómo puepo probar los cambios?
+ en que url y forma puedo ver el update
